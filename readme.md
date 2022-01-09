@@ -21,11 +21,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=renslakens&include_all_commits=true&count_private=true&show_icons=true&line_height=20&icon_color=2234AE&bg_color=0D1117" alt="renslakens's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=renslakens&include_all_commits=true&count_private=true&show_icons=true&line_height=20&icon_color=2234AE&bg_color=0D1117&text_color=D3D3D3" alt="renslakens's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renslakens&layout=compact&bg_color=0D1117)](https://github.com/renslakens/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renslakens&layout=compact&bg_color=0D1117&text_color=D3D3D3)](https://github.com/renslakens/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
