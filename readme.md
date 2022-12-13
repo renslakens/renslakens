@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Java Development.
 - 🌎 &nbsp; I'm currently living near Breda, The Netherlands.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at Avans Hogeschool.
